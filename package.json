@@ -1,5 +1,5 @@
 {
-    "name": "GPIO relay control ON",
+    "name": "GPIO relay control OFF",
     "author": "Samuel Chovanec",
     "desc": "GPIO relay control that turns pin 26 ON",
     "repository": "https://github.com/samuelchovanec/GPIO_relay_controll_ON",
